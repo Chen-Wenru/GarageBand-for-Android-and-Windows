@@ -1,1 +1,1 @@
-# GarageBand-for-Android-and-Windows
+# GarageBand for Android and Windows
